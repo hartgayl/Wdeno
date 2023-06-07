@@ -1,4 +1,4 @@
-# dotland
+# dotlandq
 
 [![Build Status](https://github.com/denoland/dotland/workflows/ci/badge.svg?branch=main&event=push)](https://github.com/denoland/dotland/actions)
 
